@@ -1,0 +1,29 @@
+#elementsid h1{
+    font-size: 80px;
+    font-weight: 700;
+}
+#elementsid p{
+    font-size: 30px;
+}
+#elementsid button{
+    height: 80px;
+    width: 200px;
+    font-size: 16px;
+    background-color: blue;
+    color: white;
+    border: inherit;
+    transition: all 500ms;
+}
+#elementsid button:hover{
+    height: 100px;
+    width: 220px;
+    background-color: aqua;
+    color: black;
+    transition: all 500ms;
+}
+#elementid{
+    font-size: 30px;
+
+
+
+}
